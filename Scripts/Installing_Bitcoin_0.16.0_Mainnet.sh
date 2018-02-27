@@ -29,7 +29,7 @@ cd db-4.8.30.NC/build_unix/
 make -j4
 sudo make install
 
-# Installing Bitcoin 0.15.1
+# Installing Bitcoin 0.16.0
 cd ~/bin
 git clone -b v0.16.0 https://github.com/bitcoin/bitcoin
 cd bitcoin/
